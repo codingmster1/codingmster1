@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codingmster1
 - 👀 I’m interested in app, game, and web development
-- 🌱 I’m currently learning C#, HTML, CSS, GIT.
+- 🌱 I’m currently learning HTML, CSS, JS, and GIT.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me doylejeff98@gmail.com
 
