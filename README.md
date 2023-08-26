@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @codingmster1
-- 👀 I’m interested in app, game, and web development
-- 🌱 I’m currently learning HTML, CSS, JS, and GIT.
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @codingmster1 and I currently know HTML, CSS, JS and GIT. I also run all my projects on Linux.
+- 👀 I’m interested in software engineering and web development
+- 🌱 I’m currently learning React from the Front-end Simplified bootcamp and The Odin Project.
+- 💞️ I’m looking to collaborate on various front-end projects
 - 📫 How to reach me doylejeff98@gmail.com
 
 <!---
