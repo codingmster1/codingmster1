@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codingmster1 and I currently know HTML, CSS, JS, and React. I run all my projects on Linux on VM.
-- 👀 I’m interested in software engineering and web development
-- 🌱 I’m currently learning Front end and Full stack/Back-End Development, from the Front-end Simplified bootcamp and The Odin Project.
+- 👀 I’m interested in App and web development
+- 🌱 I’m currently learning Front end and Full stack Development, from the Front-end Simplified bootcamp and The Odin Project.
 - 💞️ I’m looking to collaborate on various web dev projects
 - 📫 How to reach me doylejeff98@gmail.com Discord: https://discordapp.com/users/373813732767432707 and LinkedIn: https://www.linkedin.com/in/jeff-doyle23/
 
