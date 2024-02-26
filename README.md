@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @codingmster1 and my current tech stack is HTML, CSS, JS, React, NextJS and Firebase. I have run most of my projects on Ubuntu/Linux with Virtual Box and currently use
-- MacOS as my main operating system.
+- 👋 Hi, I’m @codingmster1 and my current tech stack is HTML, CSS, JS, React, NextJS and Firebase. I have run most of my projects on Ubuntu/Linux with Virtual Box and currently use MacOS as my main operating system.
 - 👀 I’m interested in App and web development
 - 🌱 I’m currently learning Full stack Development, from the Front-end Simplified bootcamp and The Odin Project.
 - 💞️ I’m looking to collaborate on various web dev projects
