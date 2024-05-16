@@ -1,9 +1,9 @@
 
 <div align="center">
-<img src="https://gifdb.com/images/high/lofi-aesthetic-bebop-ein-m7mlt82viua85zwm.gif" align="center" style="width: 70%" />
+<img src="https://gifdb.com/images/high/lofi-aesthetic-bebop-ein-m7mlt82viua85zwm.gif" align="center" style="width: 90%" />
 </div>  
 
-<h1 align="center">Hello there 👋, I'm Jeff</h1>
+<h1 align="center">Hello there, <a href="https://emoji.gg/emoji/8794-hellotherekenobi"><img src="https://cdn3.emoji.gg/emojis/8794-hellotherekenobi.png" width="84px" height="84px" alt="HelloThereKenobi"></a> I'm Jeff</h1>
 <h3 align="center">A passionate web developer from Florida</h3>
 
 <div align="center">
@@ -29,7 +29,7 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin " />
 </a>
   <a href="https://discordapp.com/users/373813732767432707" target="_blank">
-<img src="https://mmos.com/wp-content/uploads/2017/06/discord-banner.jpg" width="10%" alt=discord" />
+<img src="https://mmos.com/wp-content/uploads/2017/06/discord-banner.jpg"  width="15%" alt=discord" />
 </a>
 </div>  
   
