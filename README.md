@@ -29,7 +29,7 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin " />
 </a>
   <a href="https://discordapp.com/users/373813732767432707" target="_blank">
-<img src="https://mmos.com/wp-content/uploads/2017/06/discord-banner.jpg"  width="15%" alt=discord" />
+<img src="https://mmos.com/wp-content/uploads/2017/06/discord-banner.jpg"  width="10%" alt=discord" />
 </a>
 </div>  
   
