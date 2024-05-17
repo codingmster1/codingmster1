@@ -75,8 +75,7 @@
   <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://logowik.com/content/uploads/images/visual-studio-code7642.jpg" alt="visual studio code" height="50" /></a>
 </div>
 
-
-
+![Snake animation](https://raw.githubusercontent.com/codingmster1/codingmster1/output/github-contribution-grid-snake-dark.svg)
 </td></tr></table>  
 
 <br/>  
