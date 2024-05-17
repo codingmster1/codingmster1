@@ -83,3 +83,7 @@
 <div align="center">
 <p><img style="margin: 30px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codingmster1&show_icons=true&locale=en&layout=compact" alt="codingmster1" /></p>
 </div>
+
+## Coolest part of the ReadMe: 
+
+![snake gif](https://github.com/codingmster1/codingmster1/blob/output/github-contribution-grid-snake.gif)
