@@ -1,9 +1,9 @@
 
 <div align="center">
-<img src="https://gifdb.com/images/high/lofi-aesthetic-bebop-ein-m7mlt82viua85zwm.gif" align="center" style="width: 90%" />
+<img src="https://gifdb.com/images/high/lofi-aesthetic-bebop-ein-m7mlt82viua85zwm.gif" align="center" style="width: 80%" />
 </div>  
 
-<h1 align="center">Hello there, <a href="https://emoji.gg/emoji/8794-hellotherekenobi"><img src="https://cdn3.emoji.gg/emojis/8794-hellotherekenobi.png" width="84px" height="84px" alt="HelloThereKenobi"></a> I'm Jeff</h1>
+<h1 align="center">Hello There  <a href="https://emoji.gg/emoji/8794-hellotherekenobi"><img src="https://cdn3.emoji.gg/emojis/8794-hellotherekenobi.png" width="84px" height="84px" alt="HelloThereKenobi"></a> I'm Jeff</h1>
 <h3 align="center">A passionate web developer from Florida</h3>
 
 <div align="center">
@@ -75,7 +75,9 @@
   <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://logowik.com/content/uploads/images/visual-studio-code7642.jpg" alt="visual studio code" height="50" /></a>
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/codingmster1/codingmster1/output/github-contribution-grid-snake-dark.svg)
+## One of the coolest parts of the README:
+
+![Snake animation](https://raw.githubusercontent.com/codingmster1/codingmster1/output/github-contribution-grid-snake.svg)
 </td></tr></table>  
 
 <br/>  
