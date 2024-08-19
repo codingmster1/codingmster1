@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codingmster1" alt="codingmster1" /></a> </p>
 
-- 🌱 I’m currently learning **Interview Prep**
+- 🌱 I’m currently learning **mongodb and node**
 
 - 👨‍💻 All of my projects are available at [http://e-portfolio.jeffistech.me/](http://e-portfolio.jeffistech.me/)
 
